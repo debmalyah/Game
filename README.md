@@ -1,2 +1,2 @@
 # Game
-Stone Paper Scissor Game
+Snake Water Gun Game
